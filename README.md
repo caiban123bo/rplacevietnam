@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/800px-Emblem_of_Vietnam.svg.png" alt="r/place vietnam">
+  <img src="https://i.imgur.com/cJ6WYtE.png" alt="r/place vietnam">
   <a href="https://discord.gg/r-placevietnam-960076480916901948">Vào server Discord của r/placevietnam!</a>
 </h1>
 
