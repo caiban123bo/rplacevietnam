@@ -15,7 +15,7 @@ Hướng dẫn setup:
 2. Tải [script overlay](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js)
 3. [Vào template](https://new.reddit.com/r/place/?jsontemplate=https://raw.githubusercontent.com/ntbeastboy/rplacevietnam/main/vnflag.json)
 4. Nhấn "Always allow all domains"
-[menu](https://media.discordapp.net/attachments/1131430894511607870/1131655632987111617/image.png?width=574&height=427)
+![menu](https://media.discordapp.net/attachments/1131430894511607870/1131655632987111617/image.png)
 
 Design mới
 --------------------
