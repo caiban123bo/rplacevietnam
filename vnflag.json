@@ -4,10 +4,19 @@
     {
       "name": "r/placevietnam",
       "sources": [
-        "https://i.imgur.com/5mJI1kF.png"
+        "https://i.imgur.com/5mJI1kF.png",
+        ""
       ],
       "x": 649,
       "y": 731
+    },
+    {
+      "name": "Morroco",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131633763038793851/1131891091663224892/small_flag_v7.png"
+      ],
+      "x": 626,
+      "y": 740
     }
   ],
   "whitelist": [],
