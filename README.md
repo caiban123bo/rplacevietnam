@@ -25,10 +25,9 @@ Hướng dẫn setup:
 4. Nhấn "Always allow all domains"
 ![menu](https://media.discordapp.net/attachments/1131430894511607870/1131655632987111617/image.png)
 
-<h2> Video hướng dẫn setup </h2>
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=l8Oq_Q7iEl4)
+<h4>Video hướng dẫn setup</h4>
 
-https://cdn.discordapp.com/attachments/1131429795721388112/1131858361504235650/Record_2023_07_21_14_56_39_971.mp4
+https://github.com/ntbeastboy/rplacevietnam/assets/99698334/0d6baaae-b78a-4e8e-a8b3-4d77904ffb51
 
 Một vài tính năng của phần mềm overlay
 ----------------------------------------
