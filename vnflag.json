@@ -2,12 +2,12 @@
   "contact": "r/placevietnam on discord",
   "templates": [
     {
-      "name": "r/place vietnam",
+      "name": "r/placevietnam",
       "sources": [
-        "https://i.imgur.com/h3bdNal.png"
+        "https://i.imgur.com/14uQtZ3.png"
       ],
-      "x": 901,
-      "y": 836
+      "x": 649,
+      "y": 731
     }
   ],
   "whitelist": [],
