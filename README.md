@@ -20,7 +20,7 @@ Hướng dẫn setup:
 Design mới
 --------------------
 
-Có design mới? Hãy tạo pull request:
+Có design mới? 
 1. Upload ảnh design của bạn trên [imgur](https://imgur.com/) (nhớ up đúng dimension của lãnh thổ cập nhật trên discord)
 2. Gửi link ảnh vào #place-art
 
