@@ -28,7 +28,9 @@ Hướng dẫn setup:
 Một vài tính năng của phần mềm overlay
 ----------------------------------------
 Sau khi nhấn vào nút options ![options](https://i.imgur.com/MK4J8sq.png) , một menu sẽ hiện ra
+
 ![menu](https://i.imgur.com/sgFaRAQ.png)
+
 Cái ae chủ yếu cần dùng sẽ là tính năng "Preview template in full", giúp ae dễ hình dung ra hình ảnh và đặt pixel hơn
 
 
