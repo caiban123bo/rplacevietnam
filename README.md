@@ -35,8 +35,11 @@ Sau khi nhấn vào nút options ![options](https://i.imgur.com/MK4J8sq.png) , m
 
 ![menu](https://i.imgur.com/sgFaRAQ.png)
 
-Cái ae chủ yếu cần dùng sẽ là tính năng "Preview template in full", giúp ae dễ hình dung ra hình ảnh và đặt pixel hơn
+Có 2 tính năng:
+1. Preview template in full: Xem trước template
+2. Dither amount: Để ở mức giữa:
 
+![dither](https://media.discordapp.net/attachments/1131429795721388112/1131862836373639199/image.png)
 
 Design mới
 --------------------
