@@ -25,7 +25,7 @@ Hướng dẫn setup:
 4. Nhấn "Always allow all domains"
 ![menu](https://media.discordapp.net/attachments/1131430894511607870/1131655632987111617/image.png)
 
-<h4>Video hướng dẫn setup</h4>
+<h3>Video hướng dẫn setup</h3>
 
 https://github.com/ntbeastboy/rplacevietnam/assets/99698334/0d6baaae-b78a-4e8e-a8b3-4d77904ffb51
 
