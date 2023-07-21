@@ -25,6 +25,10 @@ Hướng dẫn setup:
 4. Nhấn "Always allow all domains"
 ![menu](https://media.discordapp.net/attachments/1131430894511607870/1131655632987111617/image.png)
 
+<h2> Video hướng dẫn setup </h2>
+
+https://cdn.discordapp.com/attachments/1131429795721388112/1131858361504235650/Record_2023_07_21_14_56_39_971.mp4
+
 Một vài tính năng của phần mềm overlay
 ----------------------------------------
 Sau khi nhấn vào nút options ![options](https://i.imgur.com/MK4J8sq.png) , một menu sẽ hiện ra
