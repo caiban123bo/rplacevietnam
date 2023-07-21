@@ -37,7 +37,7 @@ Sau khi nhấn vào nút options ![options](https://i.imgur.com/MK4J8sq.png) , m
 
 Có 2 tính năng:
 1. Preview template in full: Xem trước template
-2. Dither amount: Để ở mức giữa:
+2. Dither amount: Để ở mức 1/3:
 
 ![dither](https://media.discordapp.net/attachments/1131429795721388112/1131862836373639199/image.png)
 
