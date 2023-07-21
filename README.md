@@ -2,6 +2,8 @@
   <img src="https://i.imgur.com/cJ6WYtE.png" alt="r/place vietnam">
 
   <a href="https://discord.gg/r-placevietnam-960076480916901948">Vào server Discord của r/placevietnam!</a>
+  
+  Lưu ý: KHÔNG dùng được trên điện thoại
 </h1>
 
 
