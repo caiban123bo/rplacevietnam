@@ -1,24 +1,45 @@
 {
-  "contact": "r/placevietnam on discord",
+
+  "contact": "",
+
   "templates": [
+
     {
-      "name": "r/placevietnam",
+
+      "name": "r/place VN",
+
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131429845683937450/1131905062772416542/Flag_VN_v3.png",
-        ""
+
+        "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vntemp.png"
+
       ],
-      "x": 649,
+
+      "x": 1148,
+
       "y": 731
+
     },
+
     {
-      "name": "Morroco",
+
+      "name": "SEATO",
+
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131633763038793851/1131891091663224892/small_flag_v7.png"
+
+        "https://cdn.discordapp.com/attachments/1131929380935970846/1132253707430535198/SEATOLarge.png"
+
       ],
-      "x": 626,
-      "y": 740
+
+      "x": 1674,
+
+      "y": 174
+
     }
+
   ],
+
   "whitelist": [],
+
   "blacklist": []
+
 }
